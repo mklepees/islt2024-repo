@@ -1,0 +1,28 @@
+
+Create new repository
+Public
+Create repository
+Name file
+Type in note
+Commit Changes
+Go to green box-code
+Copy GitHub CLI code
+Copy SSH Code
+Go to terminal type in: git clone paste in SSH code
+Track changes by typing in: git add .
+Type in terminal: ls
+Type in terminal: cd title of file
+Type in terminal: git commit -m "adding stuff"
+Message will appear On branch main Your branch is up to date
+Type the following commands in terminal:
+git push origin main
+nano README.me
+git push origin main
+git pull origin main
+git add .
+git comit -m "add readme"
+git push origin main
+ls
+
+If you edit a file on GitHub, to sync to your local repo on your server, run the following command:
+git pull origin main
